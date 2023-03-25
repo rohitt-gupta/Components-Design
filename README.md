@@ -1,6 +1,7 @@
 # Snippets
 
 Snippet is a collection of frequently used components or code snippets.
+HTML, CSS, React
 
 ## Usage
 
