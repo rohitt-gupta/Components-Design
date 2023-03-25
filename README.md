@@ -1,7 +1,12 @@
 # Snippets
 
 Snippet is a collection of frequently used components or code snippets.
-HTML, CSS, React
+Built on HTML, CSS, React
+
+## Components
+##### 1. React Firebase Login/Signup:- https://heroic-raindrop-f0bd68.netlify.app
+##### 2. Carousel component using HTML and CSS
+##### 3. Accordian component using HTML and CSS
 
 ## Usage
 
