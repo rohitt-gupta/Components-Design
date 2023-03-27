@@ -3,11 +3,6 @@
 Snippet is a collection of frequently used components or code snippets.
 Built on HTML, CSS, React
 
-## Components
-##### 1. React Firebase Login/Signup:- https://heroic-raindrop-f0bd68.netlify.app
-##### 2. Carousel component using HTML and CSS
-##### 3. Accordian component using HTML and CSS
-
 ## Usage
 
 Clone the repo and select the required branch.
@@ -32,6 +27,9 @@ to discuss what you would like to change.
 
 Please remove old code before making any changes and add a readme file to your branch so that others can use the component as well.
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## Components
+##### 1. React Firebase Login/Signup:- https://heroic-raindrop-f0bd68.netlify.app
+##### 2. Carousel component using HTML and CSS![Screenshot (113)](https://user-images.githubusercontent.com/81370462/227846933-24597b1c-c635-49f7-a3ba-ea2781187156.png)
+
+##### 3. Accordian component using HTML and CSS![Screenshot (114)](https://user-images.githubusercontent.com/81370462/227847063-ed70def3-a85d-4faf-bb89-9a4a0e838d1b.png)
