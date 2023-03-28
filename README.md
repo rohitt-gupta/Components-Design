@@ -34,3 +34,4 @@ Please remove old code before making any changes and add a readme file to your b
 ##### 3. Accordian component using HTML and CSS![Screenshot (114)](https://user-images.githubusercontent.com/81370462/227847063-ed70def3-a85d-4faf-bb89-9a4a0e838d1b.png)
 ##### 4. Pagination Component using html, css. ![Screenshot (115)](https://user-images.githubusercontent.com/81370462/228004162-05f032e9-b3b0-4464-bc3a-9399a7153515.png)
 ##### 5. Omnifood Hero Section ![Screenshot (116)](https://user-images.githubusercontent.com/81370462/228145439-b268ac47-6edd-46fa-88e0-919835fcd13a.png)
+##### 6. Email Website Layout![Screenshot (118)](https://user-images.githubusercontent.com/81370462/228199087-292b46c0-022d-475a-a1eb-55461ccde007.png)
