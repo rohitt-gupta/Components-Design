@@ -12,24 +12,133 @@
 			rel="stylesheet"
 		/>
 		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
 			html {
 				font-family: "Rubik", sans-serif;
 				color: #444;
+			}
+
+			.container {
+				margin: 0 auto;
+
+				width: 1200px;
+			}
+
+			header {
+				/* background-color: #e67e22; */
+				height: 100vh;
+
+				position: relative;
+				background-image: linear-gradient(
+						rgba(34, 34, 34, 0.6),
+						rgba(34, 34, 34, 0.6)
+					),
+					url(hero.jpg);
+				background-size: cover;
+				color: #fff;
+			}
+
+			nav {
+				font-size: 20px;
+				font-weight: 700;
+				padding-top: 32px;
+				/* background-color: green; */
+
+				display: flex;
+				justify-content: space-between;
+			}
+
+			.header-container {
+				width: 1200px;
+				/* background-color: #645a5a; */
+
+				position: absolute;
+				left: 50%;
+				top: 50%;
+
+				/* In relation with the  */
+				transform: translate(-50%, -50%);
+
+				/* text-align: center; */
+			}
+
+			.header-container-inner {
+				width: 50%;
+			}
+
+			h1 {
+				font-size: 44px;
+				margin-bottom: 32px;
+				line-height: 1.05;
+			}
+
+			p {
+				font-size: 24px;
+				line-height: 1.6;
+				margin-bottom: 48px;
+			}
+
+			.btn:link,
+			.btn:visited {
+				font-size: 20px;
+				font-weight: 600;
+				background-color: #e67e22;
+				color: #fff;
+				text-decoration: none;
+
+				display: inline-block;
+				padding: 16px 32px;
+				border-radius: 9px;
+			}
+
+			h2 {
+				font-size: 44px;
+				margin-bottom: 48px;
+			}
+
+			section {
+				padding: 96px 0;
+				/* background-color: #645a5a; */
 			}
 		</style>
 	</head>
 	<body>
 		<header>
-			<nav>
+			<nav class="container">
 				<div>LOGO</div>
 				<div>NAVIGATION</div>
 			</nav>
 
-			<div>
-				<h1>A healthy meal delivered to your door, every single day</h1>
-				<p></p>
+			<div class="header-container">
+				<div class="header-container-inner">
+					<h1>A healthy meal delivered to your door, every single day</h1>
+					<p>
+						The smart 365-days-per year food subscription that will make you eat
+						healthy again. Tailored to your personal tastest and nutritional
+						value.
+					</p>
+					<a href="#" class="btn">Start Eating Healthy</a>
+				</div>
 			</div>
 		</header>
-		<section></section>
+		<section>
+			<div class="container">
+				<h2>Some random heading</h2>
+				<p>
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
+					vitae minima tenetur optio! Dolores dicta sed tempore deserunt ipsam
+					minima qui porro, a cupiditate. Saepe quas sint consequatur ipsam
+					modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					Consectetur deserunt ducimus voluptate enim expedita nihil ipsum
+					cumque repellat, non deleniti laborum ipsa eius unde cupiditate qui?
+					Accusantium similique facere aperiam!
+				</p>
+			</div>
+		</section>
 	</body>
 </html>
